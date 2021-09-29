@@ -1,0 +1,218 @@
+/**************************** navbar ******************************/
+.navbar a{
+	font-size: 20px;
+	
+}
+/**************************** seccion de banner imagenes y texto ******************************/
+/* banner-heroes-image */
+.banner-image h1{
+	font-size: 50px;
+}
+
+/* banner-text */
+.banner-text{
+	background: #f7f7f7f7;
+}
+
+.bannerz-text{
+	color: #F2962F;
+}
+
+.banner-text h3{
+	color: #996633;	
+	font-size: 40px;
+}
+.banner-text p{
+	color: #402E32;
+	font-size: 65px;
+}
+/**************************** Contenido home ******************************/
+
+.single-page-header {
+	background-image: url("../img/fondos/fondo-nosotros-home.jpg");
+	background-size: cover;
+	padding: 140px 0 70px;
+	text-align: center;
+	color: #fff;
+	position: relative;
+  }
+
+/* counter */
+
+	.counters-item {
+		padding-bottom: 30px;
+		color: #fff;
+		position: relative;
+	  }
+	  
+	.counters-item.kill-border:before {
+		background: none;
+	  }
+	  
+	.counters-item:before {
+		background: #fff;
+		content: "";
+		margin-top: -27.5px;
+		height: 55px;
+		width: 1px;
+		position: absolute;
+		right: -15px;
+		top: 50%;
+	  }
+	  
+	.counters-item > div {
+		margin: 6px 0;
+	  }
+	  
+	.counters-item span {
+		display: inline;
+		font-size: 35px;
+		font-weight: 700;
+		line-height: 50px;
+	  }
+	  
+	.counters-item i {
+		font-size: 40px;
+		display: inline-block;
+		color: #fff;
+	  }
+	  
+	.counters-item h3 {
+		font-size: 18px;
+		margin: 0;
+		color: #fff;
+	  }
+
+  
+
+/* estilo del boton */
+.btn-main {
+	background: #F2962F;
+	border: 2px solid #F2962F;
+	color: #fff;
+	display: inline-block;
+	font-size: 14px;
+	letter-spacing: 1px;
+	padding: 12px 40px;
+	text-transform: uppercase;
+	border-radius: 40px;
+  }
+
+.banner-text-home{
+	background: #ffffff;
+}
+.banner-text-home h3{
+	color: #996633;	
+	font-size: 40px;
+}
+.banner-text-home p{
+	color: #402E32;
+	font-size: 65px;
+}
+.servicios-seccion{
+	background: #f7f7f7;
+}
+.servicios-seccion h3{
+	color: #996633;
+	font-size: 40px;
+}
+.contador-home{
+	background: #402E32;
+}
+.contador-home h1{
+	color: #ffffff;
+}
+.nosotros-home p{
+	color: #402E32;
+	font-size: 25px;
+}
+.nosotros-home h3{
+	color: #996633;
+	font-size: 40px;
+}
+.proyectos-home{
+	background: #f7f7f7;
+}
+.text-proyectos h3{
+	color: #996633;
+	font-size: 40;
+}
+.text-proyectos h2{
+	color: #402E32;
+	font-size: 60;
+}
+
+.gallery-home{
+	background-color: #f7f7f7;
+	padding: 70px 0;
+}
+.gallery-home img{
+
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
+.text-clientes h3{
+	color: #996633;
+	font-size: 40;
+}
+.text-clientes h2{
+	color: #402E32;
+	font-size: 60;
+}
+
+/************************ seccion de servicios **************************/
+.servicios img{
+	padding: 10px;
+}
+.servicios h2{
+	color: #F2962F;
+	padding: 8px;
+}
+.servicios p{
+	color: #402E32;
+	font-size: 20px;
+}
+/**************************** galeria de imagenes en proyectos ******************************/
+img{
+	max-width: 100%;
+}
+.gallery{
+	background-color: #ffffff;
+	padding: 70px 0;
+}
+.gallery img{
+
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
+
+/**************************** footer ******************************/
+footer{
+    background-color: #f7f7f7;
+}
+footer h5{
+	color: #996633;
+} 
+.footer ul{
+	color: #402E32;
+	font-size: 18px;
+} 
+.iconos i{
+	font-size: 28px;
+	color: #996633;
+} 
+.footer-copyright{
+    background-color: #402e32;
+	color: #F2962F;
+}
+
